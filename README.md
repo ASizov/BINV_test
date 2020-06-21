@@ -1,4 +1,4 @@
-# BN_test
+# BINV_test
 
 The task is to create and implement a GAN that is based on AttnGAN and somehow uses the text encoding module from the paper A Generative Adversarial Approach for Zero-Shot Learning from Noisy Texts (so the images are now generated given input words and noise-reducing encoding of the input sentence presented in the paper).
 
