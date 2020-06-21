@@ -4,4 +4,4 @@ The task is to create and implement a GAN that is based on AttnGAN and somehow u
 
 As it is stated in the paper the text embedding is first passed through a fully connected (FC) layer to reduce the dimensionality. Then it is shown how this additional FC layer has a critical contribution to noise suppression. 
 
-So the main part of noise reduction is this additional FC layer, and it was put into the model.py prior to words processing with AttnGan procedure. Hopre this description would help.
+So the main part of noise reduction is this additional FC layer, and it was put into the model.py prior to words processing with AttnGan procedure. Hope this description would help.
